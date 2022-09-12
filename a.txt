@@ -1,0 +1,2 @@
+This is a text file
+and is edited through github remote host not local codebase
